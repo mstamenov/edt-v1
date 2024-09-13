@@ -41,5 +41,6 @@
   <commonPictures>CommonPicture.CommonPicture</commonPictures>
   <catalogs>Catalog.Catalog</catalogs>
   <catalogs>Catalog.Catalog1</catalogs>
+  <catalogs>Catalog.Catalog2</catalogs>
   <documents>Document.Sale</documents>
 </mdclass:Configuration>
