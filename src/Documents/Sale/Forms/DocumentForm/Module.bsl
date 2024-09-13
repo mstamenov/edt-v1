@@ -1,0 +1,5 @@
+&AtClient
+
+Procedure OnOpen()
+	
+EndProcedure
