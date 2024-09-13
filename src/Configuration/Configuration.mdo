@@ -39,6 +39,7 @@
     <languageCode>en</languageCode>
   </languages>
   <commonPictures>CommonPicture.CommonPicture</commonPictures>
+  <constants>Constant.Constant</constants>
   <catalogs>Catalog.Catalog</catalogs>
   <catalogs>Catalog.Catalog1</catalogs>
   <catalogs>Catalog.Catalog2</catalogs>
